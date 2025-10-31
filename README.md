@@ -1,4 +1,13 @@
 # Ai Dev
+<div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/111be0f4-5406-4866-9d0e-9a47b4cd54a5" 
+    alt="ai dev" 
+    width="1024" 
+    height="1024" 
+  />
+</div>
+
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-orange.svg)](https://kotlinlang.org/)
